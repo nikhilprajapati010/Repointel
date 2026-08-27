@@ -1,0 +1,6 @@
+{
+  "name": "RepoIntel",
+  "description": "Hyper-minimalist futuristic 3D WebGL repository intelligence graph with glassmorphic heads-up display and AI code inspection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
